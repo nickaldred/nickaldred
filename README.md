@@ -21,4 +21,4 @@ Skills <br />
 Contact <br />
 -----------------------------------------------------------------------
 🌐 www.nickaldred.com<br />
-📧 hello@nickaldred.com<br />
+✉ hello@nickaldred.com<br />
