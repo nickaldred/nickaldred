@@ -7,7 +7,6 @@
 Hi! 👋
 -----------------------------------------------------------------------
 I'm Nick Aldred, a 27 years old aspiring software engineer from England.
-
 Check out my projects at:
 www.nickaldred.com
 
