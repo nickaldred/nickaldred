@@ -13,10 +13,10 @@ Check out my projects at: www.nickaldred.com
 Skills <br />
 -----------------------------------------------------------------------
 
-👨‍💻 Python, Java, JavaScript, PHP <br />
+👨‍💻 Python, Java & JavaScript <br />
 ⚙️ Flask<br />
 👁️ HTML5, CSS3<br />
-💽 MySQL, SQL, PostgreSQL, MongoDB<br />
+💽 MySQL, SQL, PostgreSQL & MongoDB<br />
 
 Contact <br />
 -----------------------------------------------------------------------
