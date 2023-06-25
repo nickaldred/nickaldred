@@ -6,15 +6,13 @@
 
 Hi! 👋
 -----------------------------------------------------------------------
-I'm Nick Aldred, a 27 years old aspiring software engineer from England.<br />
-
-Check out my projects at: www.nickaldred.com
+I'm Nick Aldred, a 28 years old software engineer from England.<br />
 
 Skills <br />
 -----------------------------------------------------------------------
 
 👨‍💻 Python, Java & JavaScript <br />
-⚙️ Flask<br />
+⚙️ Flask, FastApi<br />
 👁️ HTML5, CSS3<br />
 💽 MySQL, SQL, PostgreSQL & MongoDB<br />
 
