@@ -14,7 +14,6 @@ Skills <br />
 👨‍💻 Python, Java & JavaScript <br />
 ⚙️ FastApi, Flask <br />
 👁️ HTML5, CSS3<br />
-
 💽 MySQL, SQL, PostgreSQL & MongoDB<br />
 
 Contact <br />
