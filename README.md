@@ -6,7 +6,7 @@
 
 Hi! 👋
 -----------------------------------------------------------------------
-I'm Nick Aldred, a 29 years old software engineer from England.<br />
+I'm Nick Aldred, a 30 years old software engineer from England.<br />
 
 Skills <br />
 -----------------------------------------------------------------------
